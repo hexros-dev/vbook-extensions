@@ -1,13 +1,13 @@
 {
   "metadata": {
     "author": "Hexros",
-    "description": ""
+    "description": "Vbook extensions"
   },
   "data": [
     {
-      "name": "Hentai2Read",
+      "name": "Hentai2Read.com",
       "author": "Hexros",
-      "path": "https://raw.githubusercontent.com/hexros-dev/vbook-extensions/master/hentai2read/plugin.zip",
+      "path": "https://github.com/hexros-dev/vbook-extensions/raw/master/hentai2read/plugin.zip",
       "version": 2.7,
       "source": "https://hentai2read.com",
       "icon": "https://hentai2read.com/apple-touch-icon.png",
