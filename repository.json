@@ -1,10 +1,5 @@
 [
   {
-    "link": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/plugin.json",
-    "author": "vBook",
-    "description": "Extension mặc định"
-  },
-  {
     "link": "https://raw.githubusercontent.com/hexros-dev/vbook-extensions/master/plugin.json",
     "author": "Hexros",
     "description": "Vbook extension"
