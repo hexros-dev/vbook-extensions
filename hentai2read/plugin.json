@@ -3,7 +3,7 @@
     "name": "Hentai2Read",
     "author": "Hexros",
     "version": 2.7,
-    "source": "https://hentai2read.com",
+    "source": "https://hentai2read.com/",
     "regexp": "(www.)?hentai2read.com/[^/]+/?",
     "description": "Đọc truyện trên trang Hentai2read.com",
     "locale": "en_US",
