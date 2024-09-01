@@ -9,7 +9,7 @@
             "author": "Hexros",
             "path": "https://raw.githubusercontent.com/hexros-dev/vbook-exts/master/hentai2read-no-yaoi/plugin.zip",
             "version": 2.8,
-            "source": "https://hentai2read.com",
+            "source": "https://example.com",
             "icon": "https://hentai2read.com/apple-touch-icon.png",
             "description": "Đọc truyện trên trang Hentai2read.com không Yaoi",
             "tag": "nsfw",
