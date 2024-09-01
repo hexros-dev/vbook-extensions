@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "name": "Hentai2Read.com",
+    "name": "Hentai2Read No Yaoi",
     "author": "Hexros",
-    "version": 2.7,
+    "version": 2.8,
     "source": "https://hentai2read.com",
     "regexp": "(www.)?hentai2read.com/[^/]+/?",
     "description": "Đọc truyện trên trang Hentai2read.com",
